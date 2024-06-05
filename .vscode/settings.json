@@ -6,7 +6,7 @@
   "gitdoc.autoPush": "onCommit",
   "gitdoc.autoPushDelay": 60000,
   "gitdoc.commitValidationLevel": "none",
-  "gitdoc.enabled": false,
+  "gitdoc.enabled": true,
   "git.enabled": true,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,

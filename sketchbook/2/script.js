@@ -7,8 +7,8 @@ function setup() {
   createCanvas(500, 600); // Create a canvas of 800x600 pixels
   ballX = width / 2; // Initialize ball's x position at the center of the canvas
   ballY = height / 2; // Initialize ball's y position at the center of the canvas
-  ballSpeedX = 3; // Set the ball's horizontal speed
-  ballSpeedY = 3; // Set the ball's vertical speed
+  ballSpeedX = random(10); // Set the ball's horizontal speed
+  ballSpeedY = random(10); // Set the ball's vertical speed
   ballColor = color(random(255), random(255), random(255)); // Initialize ball's color to a random color
 }
 

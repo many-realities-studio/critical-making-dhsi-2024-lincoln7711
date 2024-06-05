@@ -4,7 +4,7 @@ let ballSpeedX, ballSpeedY;
 
 // Setup function to initialize the canvas and ball properties
 function setup() {
-  createCanvas(800, 600); // Create a canvas of 800x600 pixels
+  createCanvas(500, 600); // Create a canvas of 800x600 pixels
   ballX = width / 2; // Initialize ball's x position at the center of the canvas
   ballY = height / 2; // Initialize ball's y position at the center of the canvas
   ballSpeedX = 5; // Set the ball's horizontal speed

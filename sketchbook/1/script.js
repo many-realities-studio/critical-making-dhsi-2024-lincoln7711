@@ -1,7 +1,7 @@
 let shapes = []; // Array to store shape data
 
 function setup() {
-  createCanvas(800, 800);
+  createCanvas(600, 800);
   background(255, 200, 200); // Set background to pink
   noLoop(); // Only draw once
 
